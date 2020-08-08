@@ -1,0 +1,11 @@
+{
+  "name": "splashtext",
+  "version": "1.0.0",
+  "description": "SplashText creates text with a splash of color upon mouse over.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toren Caldwell",
+  "license": "ISC"
+}
