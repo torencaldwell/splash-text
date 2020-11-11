@@ -37,4 +37,4 @@ SplashText is configured entirely through its props.
   />
 ```
 
-![Quick Demo :)](demo/splashTextDemo.gif)
+![Quick Demo :)](https://raw.githubusercontent.com/torencaldwell/splash-text/master/demo/splashTextDemo.gif)
