@@ -18,3 +18,23 @@ SplashText is configured entirely through its props.
 |`text`       |`string`       |Text to be displayed                               |
 |`textStyle`  |`object`       |styling to be applied to the text                  |
 
+# Example
+
+```jsx
+  <SplashText
+    enterColors={[
+      '#3333FF',
+      '#8833FF',
+      '#FF3388',
+    ]}
+    baseColor='#FFFFFF'
+    interval={200}
+    duration={2}
+    textStyle={{
+      fontSize: 100,
+    }}
+    text='This is text'
+  />
+```
+
+![Quick Demo :)](demo/splashTextDemo.gif)
